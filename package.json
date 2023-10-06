@@ -1,0 +1,10 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx eslint-flat-config-viewer"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "1.0.0-beta.21",
+    "eslint": "^8.50.0"
+  }
+}
